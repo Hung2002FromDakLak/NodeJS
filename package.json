@@ -1,11 +1,22 @@
 {
   "name": "nodebasic",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hung2002FromDakLak/NodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hung2002FromDakLak/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Hung2002FromDakLak/NodeJS#readme",
+  "description": "",
+  "dependencies": {
+    "express": "4.18.2"
+  }
 }
